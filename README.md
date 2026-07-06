@@ -1,13 +1,7 @@
-<h1 align="center"> CIRL</h1>
-
+<h1 align="center"> Consistent Zero-Shot Imitation with Contrastive Goal Inference (CIRL)</h1>
 
 [**Installation**](#Installation) | [**Quick Start**](#start) | [**Environments**](#envs) | [**Baselines**](#baselines) | [**Citation**](#cite)
 
-</center>
-
-<br/>
-
-## Consistent Zero-Shot Imitation with Contrastive Goal Inference
 
 We investigate whether purely self-directed exploration & task execution enable an agent to instantly imitate new behaviors. During training, our agent proposes and practices reaching its own goals in a multi-task environment, and at test time must imitate a demonstration zero-shot, with low regret.
 
