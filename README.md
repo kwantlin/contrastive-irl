@@ -1,5 +1,8 @@
 <h1 align="center"> Consistent Zero-Shot Imitation with Contrastive Goal Inference (CIRL)</h1>
 
+Code repository for the [CIRL paper](https://arxiv.org/abs/2510.17059) by Kathryn Wantlin, Chongyi Zheng, and Benjamin Eysenbach (Princeton University).
+
+##
 [**Installation**](#Installation) | [**Quick Start**](#start) | [**Environments**](#envs) | [**Baselines**](#baselines) | [**Citation**](#cite)
 
 
